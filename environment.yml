@@ -10,7 +10,6 @@ dependencies:
   - jupyter=1.0
   - jupyterlab=4.0
   - plotly=5.18
-  - kaleido=0.2
   - pip
   - pip:
     - ydata-profiling==4.6.0
